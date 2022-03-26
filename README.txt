@@ -1,1 +1,1 @@
-I created this Git repository to check how Remix IDE work with git and to make a little practise using Git
+I created this Git repository to check how Remix IDE work with git and to make a little practise using Git.
